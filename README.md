@@ -34,7 +34,7 @@ SwiftSweeper consists of two distinct components: the kernel and the user space.
 First, you need to install the SwiftSweeper Kernel.
 1. Clone the SwiftSweeper Kernel repository:
    ```bash
-   git clone https://github.com/casys-kaist/SwiftSweeper
+   git clone https://github.com/casys-kaist/SwiftSweeper-Kernel
    ```
 2. Get submodules and update. This will clone SwiftSweeper-Kernel repository.
    ```bash
