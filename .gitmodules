@@ -1,0 +1,6 @@
+[submodule "mBPF-Kernel"]
+	path = SwiftSweeper-Kernel
+	url = git@github.com:casys-kaist-internal/mBPF-Kernel.git
+[submodule "scripts/perf/flamegraph"]
+	path = scripts/perf/flamegraph
+	url = git@github.com:brendangregg/FlameGraph.git
