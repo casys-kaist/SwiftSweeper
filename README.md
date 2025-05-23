@@ -3,7 +3,7 @@ Junho Ahn<sup>1</sup>, Kanghyuk Lee<sup>1</sup>, Chanyoung Park<sup>2</sup>, Hyu
 1) School of Computing, KAIST
 2) Computer Science and Engineering, UNIST
 
-> The paper is available in [here](https://???).
+> The paper is available in [here](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a755/26hiTUVrNEk).
 
 ## Abstraction
 Use-after-free (UAF) vulnerabilities pose severe security risks in memory-unsafe languages like C and C++. To mitigate these issues, prior work has employed memory sweeping, inspired by conservative garbage collection. However, such approaches inherit key limitations, including stop-the-world pauses, poor scalability, and high CPU usage, rendering them unsuitable for modern, latency-sensitive applications.
